@@ -1,0 +1,1 @@
+I am a tiny Post for a tiny blog

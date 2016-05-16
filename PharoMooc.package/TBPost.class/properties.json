@@ -1,0 +1,18 @@
+{
+	"category" : "PharoMooc-TinyBlog",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"title",
+		"text",
+		"date",
+		"category",
+		"visible" ],
+	"name" : "TBPost",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
