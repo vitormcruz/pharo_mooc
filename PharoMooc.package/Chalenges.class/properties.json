@@ -1,0 +1,14 @@
+{
+	"category" : "PharoMooc",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "vitor 5/15/2016 22:26",
+	"instvars" : [
+		 ],
+	"name" : "Chalenges",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
