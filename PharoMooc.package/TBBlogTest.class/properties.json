@@ -1,0 +1,16 @@
+{
+	"category" : "PharoMooc-TinyBlog-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"blog",
+		"post",
+		"first" ],
+	"name" : "TBBlogTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "vitor 5/22/2016 19:23",
+		"tearDown" : "vitor 5/22/2016 19:05",
+		"testAddBlogPost" : "vitor 5/22/2016 19:07",
+		"testAllBlogPosts" : "vitor 5/22/2016 19:15",
+		"testAllBlogPostsFromCategory" : "vitor 5/22/2016 19:17",
+		"testAllCategories" : "vitor 5/22/2016 19:25",
+		"testAllVisibleBlogPosts" : "vitor 5/22/2016 19:16",
+		"testAllVisibleBlogPostsFromCategory" : "vitor 5/22/2016 19:23",
+		"testUnclassifiedBlogPosts" : "vitor 5/22/2016 19:25" } }
