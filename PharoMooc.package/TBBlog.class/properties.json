@@ -4,7 +4,7 @@
 		"instance" ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "vitor 6/9/2016 20:10",
 	"instvars" : [
 		"posts" ],
 	"name" : "TBBlog",

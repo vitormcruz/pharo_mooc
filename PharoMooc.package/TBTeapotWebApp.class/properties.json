@@ -1,0 +1,14 @@
+{
+	"category" : "PharoMooc-TinyBlog-Teapot",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Server" ],
+	"commentStamp" : "vitor 6/9/2016 20:13",
+	"instvars" : [
+		"teapot" ],
+	"name" : "TBTeapotWebApp",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
