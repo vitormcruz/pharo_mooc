@@ -1,0 +1,3 @@
+*PharoMooc-TinyBlog-External-Voyage
+initializeVoyageOnMemoryDB
+	VOMemoryRepository new enableSingleton

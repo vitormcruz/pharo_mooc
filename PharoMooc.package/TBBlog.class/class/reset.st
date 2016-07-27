@@ -1,4 +1,3 @@
-class initialization
+*PharoMooc-TinyBlog-External-Voyage
 reset
-
-	^ instance := nil.
+	self initializeLocalhostMongoDB.

@@ -3,7 +3,10 @@
 		"createDemoPosts" : "vitor 6/9/2016 20:12",
 		"current" : "vitor 5/21/2016 22:04",
 		"initialize" : "vitor 5/21/2016 22:04",
-		"reset" : "vitor 5/21/2016 22:02" },
+		"initializeLocalhostMongoDB" : "vitor 7/20/2016 21:51",
+		"initializeVoyageOnMemoryDB" : "vitor 7/17/2016 15:53",
+		"isVoyageRoot" : "vitor 7/17/2016 15:13",
+		"reset" : "vitor 7/20/2016 21:52" },
 	"instance" : {
 		"allBlogPosts" : "vitor 5/22/2016 19:15",
 		"allBlogPostsFromCategory:" : "vitor 5/22/2016 19:19",
@@ -11,6 +14,6 @@
 		"allVisibleBlogPosts" : "vitor 5/22/2016 19:17",
 		"allVisibleBlogPostsFromCategory:" : "vitor 5/22/2016 19:24",
 		"initialize" : "vitor 5/21/2016 22:00",
-		"removeAllPosts" : "vitor 5/22/2016 19:07",
+		"removeAllPosts" : "vitor 7/18/2016 21:19",
 		"size" : "vitor 5/22/2016 19:13",
-		"writeBlogPost:" : "vitor 5/22/2016 19:12" } }
+		"writeBlogPost:" : "vitor 7/18/2016 21:19" } }
