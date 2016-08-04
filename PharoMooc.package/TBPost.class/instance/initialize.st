@@ -2,5 +2,5 @@ initialization
 initialize
 
 	self date: Date today.
-	self visible: false.
+	self visible: true.
 	self category: TBPost unclassifiedTag.

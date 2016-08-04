@@ -1,0 +1,15 @@
+{
+	"category" : "PharoMooc-TinyBlog-External-Seaside",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"categories",
+		"postsList" ],
+	"name" : "TBCategoriesComponent",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

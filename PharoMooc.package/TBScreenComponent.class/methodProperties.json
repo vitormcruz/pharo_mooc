@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"blog" : "vitor 8/1/2016 22:09",
+		"children" : "vitor 8/1/2016 23:16",
+		"currentCategory" : "vitor 8/3/2016 18:03",
+		"currentCategory:" : "vitor 8/3/2016 18:03",
+		"initialize" : "vitor 8/1/2016 23:15",
+		"renderContentOn:" : "vitor 8/1/2016 23:16" } }

@@ -1,3 +1,3 @@
 *PharoMooc-TinyBlog-External-Voyage
 reset
-	self initializeLocalhostMongoDB.
+	self initializeVoyageOnMemoryDB.
